@@ -1,4 +1,4 @@
- function playVideo1 (){
+function playVideo1 (){
 
    console.log("clicked");
     
@@ -43,3 +43,8 @@ function playVideo2 (){
          document.getElementById("vid5").style.display="block"
  
  }
+ function sTop() 
+{
+  
+  document.documentElement.scrollTop = 0;
+}
