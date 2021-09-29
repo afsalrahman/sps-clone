@@ -429,3 +429,7 @@ p{
   text-align: center;
   border: none;
 }
+.card:hover .fea-icon{
+  background-color: white;
+  color: #00d2b5;
+}
